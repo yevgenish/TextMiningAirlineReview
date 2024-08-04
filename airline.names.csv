@@ -1,0 +1,75 @@
+AirlineName,IsLowCost,IsActive,IsIsraeli
+Aegean Airlines,0,1,0
+Aeroflot Russian Airlines,0,1,0
+Air Berlin,0,0,0
+Air Canada,0,1,0
+Air Europa,0,1,0
+Air France,0,1,0
+Air India,0,1,0
+Air Moldova,0,1,0
+Air Serbia,0,1,0
+Air Transat,0,1,0
+airBaltic,1,1,0
+Alitalia,0,0,0
+American Airlines,0,1,0
+AnadoluJet,1,1,0
+Atlasglobal,0,0,0
+Austrian Airlines,0,1,0
+Azerbaijan Airlines,0,1,0
+Belavia,0,1,0
+Blue Air,1,1,0
+Bluebird Airways,0,0,0
+British Airways,0,1,0
+Brussels Airlines,0,1,0
+Bulgaria Air,0,1,0
+Cathay Pacific Airways,0,1,0
+Cobalt,0,0,0
+Condor Airlines,0,1,0
+CSA Czech Airlines,0,1,0
+Delta Air Lines,0,1,0
+easyJet,1,1,0
+Egyptair,0,1,0
+Emirates,0,1,0
+Ethiopian Airlines,0,1,0
+Etihad Airways,0,1,0
+Finnair,0,1,0
+flydubai,1,1,0
+Garuda Indonesia,0,1,0
+Georgian Airways,0,1,0
+Germania Airline,0,0,0
+Gulf Air,0,1,0
+Hainan Airlines,0,1,0
+Iberia,0,1,0
+Icelandair,0,1,0
+ITA Airways,0,1,0
+KLM Royal Dutch Airlines,0,1,0
+Korean Air,0,1,0
+LOT Polish Airlines,0,1,0
+Lufthansa,0,1,0
+Norwegian,1,1,0
+Pegasus Airlines,1,1,0
+Rossiya Airlines,0,1,0
+Royal Jordanian Airlines,0,1,0
+Rwandair,0,1,0
+Ryanair,1,1,0
+SmartWings,1,1,0
+Swiss Intl Air Lines,0,1,0
+TAP Portugal,0,1,0
+TAROM Romanian,0,1,0
+Transaero Airlines,0,0,0
+Transavia,1,1,0
+Turkish Airlines,0,1,0
+TUS Airways,0,1,0
+Ukraine International,0,1,0
+United Airlines,0,1,0
+Ural Airlines,0,1,0
+US Airways,0,0,0
+Uzbekistan Airways,0,1,0
+Virgin Atlantic,0,1,0
+Vueling Airlines,1,1,0
+Wizz Air,1,1,0
+WOW air,1,0,0
+Arkia Israeli Airlines,0,1,1
+El Al Israel Airlines,0,1,1
+Israir Airlines,0,1,1
+UP by El Al,1,1,1
